@@ -34,7 +34,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
-    <title>yynote</title>
+    <title>小黄条 YYNote</title>
     <authors>东莞凯鸿网络科技股份有限公司</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>http://www.yynote.cn/</projectUrl>
